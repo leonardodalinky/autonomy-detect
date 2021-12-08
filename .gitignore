@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.log
+*.bak
+
+# vscode
+.vscode/
+
+# jb ide
+.idea/
