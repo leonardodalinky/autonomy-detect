@@ -18,7 +18,7 @@
 
 ## 依赖工具
 
-需要确保安装好 `masscan` 和 `nmap` 两个工具，其次安装好 python 3.6+ 即可
+需要确保安装好 `masscan` 和 `nmap` 两个工具，其次安装好 python 3.7+ 即可
 
 **注意**：`masscan` 工具基本都需要 root 权限才可使用
 
